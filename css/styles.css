@@ -1,0 +1,30 @@
+body {
+  background-color: #e6e6e6;
+  font-family: sans-serif;
+}
+.about-me {
+  text-align: left;
+  margin-left: 5%;
+  width: 20%;
+  float: left;
+}
+.bio-img {
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+.blog {
+  text-align: left;
+  margin-right: 5%;
+  margin-left: 5%;
+  width: 60%;
+  float: right;
+}
+h1 {
+  margin-left: 5%;
+}
+img {
+  width: 600px;
+  height: 400px;
+}
