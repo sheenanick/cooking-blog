@@ -7,6 +7,7 @@ body {
   margin-left: 5%;
   width: 20%;
   float: left;
+  margin-top: 1%;
 }
 .bio-img {
   width: 60%;
@@ -18,6 +19,8 @@ body {
   text-align: left;
   margin-right: 5%;
   margin-left: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
   width: 60%;
   float: right;
 }
